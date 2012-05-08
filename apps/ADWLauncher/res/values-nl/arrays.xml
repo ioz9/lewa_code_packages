@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+       <string-array name="menu_binding_entries">
+       			<item>Geen</item>
+                <item>Verplaats naar standaard</item>
+                <item>Verplaats naar standaard desktop/geef previews weer</item>
+                <item>Geef previews weer</item>
+                <item>Open/sluit app drawer</item>
+                <item>Geef weer/verberg statusbalk</item>
+                <item>Open/sluit notificaties</item>
+                <item>Verplaats naar standaard desktop/open notificaties</item>
+                <item>Open/sluit dockbalk</item>
+                <item>Open App...</item>
+       </string-array>
+       <string-array name="desktop_indicator_entries">
+                <item>Pagina indicator bovenaan</item>
+                <item>Glijdende indicator bovenaan</item>
+                <item>Glijdende indicator onderaan</item>
+       </string-array>
+       <string-array name="home_orientation_entries">
+                <item>Automatisch/sensor</item>
+                <item>Portret</item>
+                <item>Landscchap</item>
+       </string-array>
+       <string-array name="screen_cache_entries">
+                <item>Lage kwaliteit</item>
+                <item>Automatisch</item>
+                <item>Uitgeschakeld</item>
+       </string-array>
+       <string-array name="main_dock_entries">
+                <item>Geen (grotere desktop)</item>
+                <item>3 Iconen</item>
+                <item>5 Iconen</item>
+                <item>1 Icoon</item>
+       </string-array>
+       <string-array name="deletezone_entries">
+                <item>Geen</item>
+                <item>Boven</item>
+                <item>Onder</item>
+                <item>Boven (Verklein desktop)</item>
+                <item>Onder (Verklein desktop)</item>
+       </string-array>
+       <string-array name="app_drawer_style_entries">
+                <item>Verticaal</item>
+                <item>Horizontaal</item>
+       </string-array>
+      </resources>
